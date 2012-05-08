@@ -12,4 +12,5 @@ Usage
 - Then...
 
         geoip = require 'geoip'
-        geoip.lookup '1.2.3.4', callbackFunction
+        geoip.lookup '1.2.3.4', (err, data) ->
+			# do something

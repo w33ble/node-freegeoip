@@ -9,5 +9,7 @@ Usage
 -----
 
 - Clone this repo
-- geoip = require 'geoip'
-- geoip.lookup '1.2.3.4', callbackFunction
+- Then...
+
+        geoip = require 'geoip'
+        geoip.lookup '1.2.3.4', callbackFunction

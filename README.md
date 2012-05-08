@@ -1,7 +1,7 @@
 Node-FreeGeoIP
 ==============
 
-This is a module for node.js to get location information from an IP address using the freegeoip.net web service.
+This is a module for node.js to get location information from an IP address using the [freegeoip.net](http://www.freegeoip.net/) web service.
 
 Some day I might make it an npm module, but I thought I'd share the code.
 
